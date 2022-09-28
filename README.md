@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, 👋 I'm LLLLLamHo
+<strong>Hi, I am zhiyuan-Tang !👋 </strong>
 
-## A front-end developer from China🇨🇳. 
+<strong>A front-end developer from China🇨🇳. </strong>
 
 <h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
  
 **Languages and Frameworks**
 
@@ -47,6 +45,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
+
+<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
