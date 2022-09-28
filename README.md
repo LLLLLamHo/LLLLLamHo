@@ -54,4 +54,8 @@ Here are some ideas to get you started:
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+
 <a href="mailto:linhao.4zhong@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-linhao.4zhong@163.com-blue?style=flat-square&logo=gmail"></a>
+
+<a href="https://www.zhihu.com/people/lam-14-21-74"><img alt="知乎" src="https://img.shields.io/badge/知乎-Lam-blue?style=flat-square&logo=zhihu"></a>
+
